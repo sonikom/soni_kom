@@ -1,5 +1,4 @@
-# soni_kom
-# Git project 
+# soni_kom - Git projects 
 Данном репозитории Вы найдете архивы готовых проектов 
 
 
